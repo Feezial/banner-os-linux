@@ -7,7 +7,7 @@ apt install figlet -y
 figlet Basic Installation
 apt install toilet -y
 apt install screenfetch -y
-pkg install screenfetch -y
+apt install screenfetch -y
 apt install neofetch -y
 apt install nano -y
 apt install ruby -y
