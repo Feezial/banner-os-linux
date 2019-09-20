@@ -3,14 +3,14 @@
 clear
 apt update
 apt upgrade
-apt install figlet -y
+apt install figlet 
 figlet Basic Installation
-apt install toilet -y
-apt install screenfetch -y
-apt install screenfetch -y
-apt install neofetch -y
-apt install nano -y
-apt install ruby -y
+apt install toilet 
+apt install screenfetch 
+apt install screenfetch 
+apt install neofetch 
+apt install nano 
+apt install ruby 
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
