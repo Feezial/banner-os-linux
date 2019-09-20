@@ -3,7 +3,7 @@ install script
 
 $ pkg update && pkg upgrade && pkg install figlet && pkg install screenfetch
 
-$ git clone https://github.com/avatarking/termux-banner-os
+$ git clone https://github.com/killpeper/banner-os-linux
 
 $ chmod +x requirements.sh banner.sh
 
