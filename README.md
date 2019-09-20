@@ -1,4 +1,4 @@
-install script
+#banner-os-linux
 
 $ pkg update && pkg upgrade && pkg install figlet && pkg install screenfetch
 
