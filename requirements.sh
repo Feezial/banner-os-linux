@@ -3,15 +3,15 @@
 clear
 apt update
 apt upgrade
-apt install figlet 
+apt install figlet -y
 figlet Basic Installation
-apt install toilet 
-apt install screenfetch 
-apt install screenfetch 
-apt install neofetch 
-apt install nano 
-apt install ruby 
-gem install lolcat
+apt install toilet -y
+apt install screenfetch -y
+apt install screenfetch -y
+apt install neofetch -y
+apt install nano -y
+apt install ruby -y
+gem install lolcat -y
 figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Run \e[32mbash banner.sh\e[0m...!!!"
