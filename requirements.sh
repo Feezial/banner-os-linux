@@ -1,16 +1,16 @@
 #install package
 
 clear
-apt update
-apt upgrade
-apt install figlet -y
+pkg update
+pkg upgrade
+pkg install figlet -y
 figlet Basic Installation
-apt install toilet -y
-apt install screenfetch -y
-apt install screenfetch -y
-apt install neofetch -y
-apt install nano -y
-apt install ruby -y
+pkg install toilet -y
+pkg install screenfetch -y
+pkg install screenfetch -y
+pkg install neofetch -y
+pkg install nano -y
+pkg install ruby -y
 gem install lolcat -y
 figlet -f big Done !!! | lolcat
 echo
