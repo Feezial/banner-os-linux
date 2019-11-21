@@ -7,6 +7,7 @@ $bash requirements.sh
 
 $bash bnoslinux.sh
 
+สำหรับTERMUX
 สามารถเขียนได้หลายอัน
 จะมายกตัวอย่างแค่สามอย่าง
 
