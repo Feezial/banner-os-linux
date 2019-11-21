@@ -3,15 +3,15 @@
 clear
 pkg update
 pkg upgrade
-pkg install figlet -y
+pkg install figlet 
 figlet Basic Installation
-pkg install toilet -y
-pkg install screenfetch -y
-pkg install screenfetch -y
-pkg install neofetch -y
-pkg install nano -y
-pkg install ruby -y
-gem install lolcat -y
+pkg install toilet 
+pkg install screenfetch 
+pkg install screenfetch 
+pkg install neofetch 
+pkg install nano 
+pkg install ruby 
+gem install lolcat 
 figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Run \e[32mbash banner.sh\e[0m...!!!"
